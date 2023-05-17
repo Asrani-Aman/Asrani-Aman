@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aman Asrani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif(https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)">
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <br>
 <br>
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aman-asrani-81ab0b223]
